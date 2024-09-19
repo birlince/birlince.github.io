@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://birlince.github.io/sitemap.html.gz
+Sitemap: https://birlince.github.io/app/sitemap.html.gz
+Sitemap: https://birlince.github.io/assets/sitemap.html.gz
+Sitemap: https://birlince.github.io/css/sitemap.html.gz
+Sitemap: https://birlince.github.io/includes/sitemap.html.gz
+Sitemap: https://birlince.github.io/item/sitemap.html.gz
+Sitemap: https://birlince.github.io/src/sitemap.html.gz
